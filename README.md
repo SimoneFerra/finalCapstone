@@ -4,3 +4,9 @@ Project description: The program runs two different financial calculators: an in
                      The user can choose the calculator needed and by entering some values the program will make the requested calculations.
 
 Table of contents: 
+
+Installation: the project can be installed locally using Python.
+
+Usage:
+
+Credits: project created by Simone Ferrari.
