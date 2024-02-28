@@ -7,6 +7,8 @@ Table of contents:
 
 Installation: the project can be installed locally using Python.
 
-Usage: the program starts asking to select 'investment', if the user wants to calculate the amount of interest you'll earn on your investment, or 'bond', if the user wants to calculate the amount you'll have to pay on a home loan
+Usage: the program starts asking to select 'investment', if the user wants to calculate the amount of interest you'll earn on your investment, or 'bond', if the user wants to calculate the amount you'll have to pay on a home loan.
+If 'investment' is selected the user have to enter the amount of money to deposit, the interest rate desired, the number of years planned for the investment and finally choose from 'simple interest' or 'compound interest'.
+After that a message will show the amount of money the user earn from the investment.
 
 Credits: project created by Simone Ferrari.
