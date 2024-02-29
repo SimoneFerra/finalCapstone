@@ -1,9 +1,14 @@
+Table of contents
+_Project name
+_Project description
+_Installation
+_Usage
+_Credits    
+
 Project name: Finance Calculators
 
 Project description: the program runs two different financial calculators: an investment calculator and a home loan repayment calculator.
-                     The user can choose the calculator needed and by entering some values the program will make the requested calculations.
-
-Table of contents: 
+                     The user can choose the calculator needed and by entering some values the program will make the requested calculations. 
 
 Installation: the project can be installed locally using Python.
 
