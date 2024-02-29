@@ -1,10 +1,3 @@
-Table of contents
-Project name
-Project description
-Installation
-Usage
-Credits    
-
 Project name: Finance Calculators
 
 Project description: the program runs two different financial calculators: an investment calculator and a home loan repayment calculator.
