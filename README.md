@@ -1,9 +1,9 @@
 Table of contents
-_Project name
-_Project description
-_Installation
-_Usage
-_Credits    
+Project name
+Project description
+Installation
+Usage
+Credits    
 
 Project name: Finance Calculators
 
